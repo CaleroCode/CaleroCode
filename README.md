@@ -4,5 +4,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-IvanCalero.Wildlife-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ivancalero.wildlife/)](https://www.instagram.com/ivancalero.wildlife/)
 [![Gmail Badge](https://img.shields.io/badge/-IvanCalero-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ivanicaleroo@gmail.com)](mailto:ivanicaleroo@gmail.com)
 
-Welcome to my humble GitHub profile! I'm currently a student dreaming of becoming a full-stack developer. I’ve got some experience as a graphic designer, and I’m also a [nature photographer](https://www.instagram.com/ivancalero.wildlife). Thanks for stopping by! Feel free to [connect](https://www.linkedin.com/in/iv%C3%A1n-calero-085771370/)
+Welcome to my humble GitHub profile! I'm currently a student dreaming of becoming a full-stack developer. I’ve got some experience as a graphic designer, and I’m also a [nature photographer](<a href="https://www.instagram.com/ivancalero.wildlife/#" target="_blank">nature photographer</a>https://www.instagram.com/ivancalero.wildlife). Thanks for stopping by! Feel free to [connect](https://www.linkedin.com/in/iv%C3%A1n-calero-085771370/)
 
