@@ -5,19 +5,23 @@
 [![Gmail Badge](https://img.shields.io/badge/-IvanCalero-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ivanicaleroo@gmail.com)](mailto:ivanicaleroo@gmail.com)
 
 
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px;">
-  <div style="flex: 0 0 160px;">
-    <img src="./img/cale.png" alt="Ivan Calero" width="150" style="border-radius: 10px;">
-  </div>
-  <div style="flex: 1; max-width: 400px;">
-    <p align="justify">
-      Welcome to my humble GitHub profile! I'm currently a student dreaming of becoming a full-stack developer. I’ve got some experience as a graphic designer, and I’m also a <a href="https://www.instagram.com/ivancalero.wildlife">nature photographer</a>. Thanks for stopping by! Feel free to <a href="https://www.linkedin.com/in/ivancalero/">connect</a> 😄
-    </p>
-  </div>
-  <div style="flex: 0 0 300px;">
-    <img src="./img/1L-35.jpg" alt="Ivan Calero" width="300" style="border-radius: 10px;">
-  </div>
-</div>
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr>
+    <td width="160px" align="center" valign="middle">
+      <img src="./img/cale.png" alt="Ivan Calero" width="150" style="border-radius: 10px;">
+    </td>
+    <td align="center" valign="middle">
+      <p align="justify" style="max-width: 400px;">
+        Welcome to my humble GitHub profile! I'm currently a student dreaming of becoming a full-stack developer. I’ve got some experience as a graphic designer, and I’m also a <a href="https://www.instagram.com/ivancalero.wildlife">nature photographer</a>. Thanks for stopping by! Feel free to <a href="https://www.linkedin.com/in/ivancalero/">connect</a> 😄
+      </p>
+    </td>
+    <td width="300px" align="center" valign="middle">
+      <img src="./img/1L-35.jpg" alt="Ivan Calero" width="300" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table><br><br><br>
+
+
 
 # Languages and Tools 🛠️
 
