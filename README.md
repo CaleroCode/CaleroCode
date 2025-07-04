@@ -8,13 +8,15 @@
 <table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
     <td width="160px" align="center" valign="middle">
-      <img src="./img/cale.png" alt="Ivan Calero" width="150" style="border-radius: 10px;">
+      <a href="https://www.instagram.com/ivancalero.wildlife/" target="_blank">
+        <img src="./img/cale.png" alt="Ivan Calero" width="150" style="border-radius: 10px;">
+      </a>
     </td>
     <td align="center" valign="middle">
       <p align="justify" style="max-width: 400px; margin: 0;">
         Welcome to my humble GitHub profile! I'm currently a student dreaming of becoming a full-stack developer. I’ve got some experience as a graphic designer, and I’m also a <a href="https://www.instagram.com/ivancalero.wildlife">nature photographer</a>. 
       </p>
-       <p align="justify" style="max-width: 400px; margin: 4px 0 0 0;">
+      <p align="justify" style="max-width: 400px; margin: 4px 0 0 0;">
         Thanks for stopping by! 
       </p>
       <p align="justify" style="max-width: 400px; margin: 4px 0 0 0;">
@@ -22,10 +24,13 @@
       </p>
     </td>
     <td width="300px" align="center" valign="middle">
-      <img src="./img/1L-35.jpg" alt="Ivan Calero" width="300" style="border-radius: 10px;">
+      <a href="https://www.instagram.com/p/DKMTv4kq6m8/?img_index=1" target="_blank">
+        <img src="./img/1L-35.jpg" alt="Ivan Calero" width="300" style="border-radius: 10px;">
+      </a>
     </td>
   </tr>
 </table><br><br><br>
+
 
 
 
