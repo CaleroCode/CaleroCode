@@ -29,14 +29,10 @@
       </a>
     </td>
   </tr>
-</table><br><br><br>
+</table>
 
 
-
-
-
-
-# Languages and Tools 🛠️
+# LANGUAGES AND TOOLS 🛠️
 
 Right now, I’m currently in a bootcamp learning the skills to be a full-stack dev! 🤞
 
@@ -69,3 +65,10 @@ Right now, I’m currently in a bootcamp learning the skills to be a full-stack 
   </a>
 </p>
 
+
+# GITHUB STATS  📊
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaleroCode&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaleroCode&layout=compact&theme=github_dark)
