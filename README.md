@@ -31,12 +31,14 @@
   </tr>
 </table>
 
+<div align=center>
+<br><br><br>
 
 # LANGUAGES AND TOOLS 🛠️
 
 Right now, I’m currently in a bootcamp learning the skills to be a full-stack dev! 🤞
 
-
+</div>
 
 <p align="center"> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
@@ -71,12 +73,15 @@ Right now, I’m currently in a bootcamp learning the skills to be a full-stack 
   </a> 
 
 </p>
-
-
+<br><br>
+<div align=center>
 
 # GITHUB STATS  📊
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaleroCode&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaleroCode&layout=compact&theme=github_dark)
+
+</div>
