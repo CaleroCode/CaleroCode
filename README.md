@@ -27,11 +27,6 @@
 </table>
 
 <div align=center>
-<br><br><br>
-
-# LANGUAGES AND TOOLS 🛠️
-
-Right now, I’m currently in a bootcamp learning the skills to be a full-stack dev! 🤞
 
 <div align=center>
 
@@ -47,7 +42,6 @@ building apps, APIs, and creative projects that blend logic and design 🎨💻
 ### 💬 **Programming Languages**
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
   <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
@@ -61,11 +55,8 @@ building apps, APIs, and creative projects that blend logic and design 🎨💻
   <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://socket.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="40" height="40"/></a>
 </p>
 
 ---
@@ -77,18 +68,12 @@ building apps, APIs, and creative projects that blend logic and design 🎨💻
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
   <a href="https://trello.com/"><img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="40" height="40"/></a>
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.netlify.com/"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/></a>
-  <a href="https://vercel.com/"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/></a>
-  <a href="https://stripe.com/"><img src="https://cdn.worldvectorlogo.com/logos/stripe-3.svg" width="40" height="40"/></a>
-  <a href="https://www.paypal.com/"><img src="https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
 ### 🗄️ **Databases**
 <p align="center">
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
@@ -105,7 +90,10 @@ building apps, APIs, and creative projects that blend logic and design 🎨💻
   <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/adobepremierepro.svg" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/dreamweaver.html"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/adobedreamweaver.svg" width="40" height="40"/></a>
   <a href="https://www.blender.org/"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/blender.svg" width="40" height="40"/></a>
-  <a href="https://www.canva.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="40" height="40"/></a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/canva/canva.png" width="40" height="40" alt="canva"/>
+</a>
+
 </p>
 
 ---
