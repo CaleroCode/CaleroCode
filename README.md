@@ -1,7 +1,7 @@
 # Hey there, I'm Iván Calero 🐺
 
 [![Linkedin Badge](https://img.shields.io/badge/-IvanCalero-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivancalero/)](https://www.linkedin.com/in/ivancalero/)
-[![Instagram Badge](https://img.shields.io/badge/-IvanCalero.Wildlife-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ivancalero.wildlife/)](https://www.instagram.com/ivancalero.wildlife/)
+[![Instagram Badge](https://img.shields.io/badge/-IvanCalero.Wildlife-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/calero.wildlife/)](https://www.instagram.com/calero.wildlife/)
 [![Gmail Badge](https://img.shields.io/badge/-IvanCalero-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ivanicaleroo@gmail.com)](mailto:ivanicaleroo@gmail.com)
 
 
@@ -9,7 +9,7 @@
   <tr>
     <td align="center" valign="middle">
       <p align="justify" style="max-width: 400px; margin: 0;">
-        Welcome to my humble GitHub profile! I'm currently a student dreaming of becoming a full-stack developer. I’ve got some experience as a graphic designer, and I’m also a <a href="https://www.instagram.com/ivancalero.wildlife">nature photographer</a>. 
+        Welcome to my humble GitHub profile! I'm currently a student dreaming of becoming a full-stack developer. I’ve got some experience as a graphic designer, and I’m also a <a href="https://www.instagram.com/calero.wildlife">nature photographer</a>. 
       </p>
       <p align="justify" style="max-width: 400px; margin: 4px 0 0 0;">
         Thanks for stopping by! 
@@ -20,7 +20,7 @@
     </td>
     <td width="300px" align="center" valign="middle">
       <a href="https://www.instagram.com/p/DKMTv4kq6m8/?img_index=1" target="_blank">
-        <img src="./1L-35.jpg" alt="Ivan Calero" width="300" style="border-radius: 10px;">
+        <img src="./img/1L-35.jpg" alt="Ivan Calero" width="300" style="border-radius: 10px;">
       </a>
     </td>
   </tr>
