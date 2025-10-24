@@ -83,16 +83,19 @@ building apps, APIs, and creative projects that blend logic and design 🎨💻
 
 ### 🎨 **Design, 3D & Video**
 <p align="center">
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/indesign.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/adobepremierepro.svg" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/dreamweaver.html"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/adobedreamweaver.svg" width="40" height="40"/></a>
-  <a href="https://www.blender.org/"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/blender.svg" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Adobe Photoshop"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="Adobe Illustrator"/></a>
+  <a href="https://www.adobe.com/products/indesign.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" width="40" height="40" alt="Adobe InDesign"/></a>
+  <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="40" height="40" alt="Adobe After Effects"/></a>
+  <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/adobepremierepro.svg" width="40" height="40" alt="Adobe Premiere Pro"/></a>
+  <a href="https://www.adobe.com/products/dreamweaver.html"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/adobedreamweaver.svg" width="40" height="40" alt="Adobe Dreamweaver"/></a>
+  <a href="https://www.blender.org/"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/blender.svg" width="40" height="40" alt="Blender"/></a>
 
-
+  <a href="https://www.maxon.net/cinema-4d"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/C4D_Logo.png" width="40" height="40" alt="Cinema 4D"/></a>
+  <a href="https://www.autodesk.com/products/3ds-max/overview"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Autodesk_3ds_Max_Icon.svg" width="40" height="40" alt="Autodesk 3ds Max"/></a>
+  <a href="https://www.autodesk.com/products/maya/overview"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Autodesk_Maya_Icon.svg" width="40" height="40" alt="Autodesk Maya"/></a>
 </p>
+
 
 ---
 
