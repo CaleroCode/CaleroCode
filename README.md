@@ -91,8 +91,9 @@ building apps, APIs, and creative projects that blend logic and design 🎨💻
   <a href="https://www.adobe.com/products/dreamweaver.html"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/adobedreamweaver.svg" width="40" height="40"/></a>
   <a href="https://www.blender.org/"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/blender.svg" width="40" height="40"/></a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/canva/canva.png" width="40" height="40" alt="canva"/>
+  <img src="assets/canva.png" width="40" height="40" alt="canva"/>
 </a>
+
 
 </p>
 
