@@ -20,7 +20,7 @@
     </td>
     <td width="300px" align="center" valign="middle">
       <a href="https://www.instagram.com/p/DKMTv4kq6m8/?img_index=1" target="_blank">
-        <img src="./1L-35.jpg" alt="Ivan Calero" width="300" style="border-radius: 10px;">
+        <img src="1L-35.jpg" alt="Ivan Calero" width="300" style="border-radius: 10px;">
       </a>
     </td>
   </tr>
@@ -33,43 +33,93 @@
 
 Right now, I’m currently in a bootcamp learning the skills to be a full-stack dev! 🤞
 
+<div align=center>
+
+# 🛠️ LANGUAGES AND TOOLS
+
+Right now, I’m on my way to becoming a full-stack developer —  
+building apps, APIs, and creative projects that blend logic and design 🎨💻
+
 </div>
 
-<p align="center"> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="indesign" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="aftereffects" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/es/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/syvixor/skills-icons/raw/main/icons/adobepremierepro.svg" alt="aftereffects" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/es/products/dreamweaver.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/syvixor/skills-icons/raw/main/icons/adobedreamweaver.svg" alt="aftereffects" width="40" height="40"/>
-  </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/syvixor/skills-icons/raw/main/icons/blender.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
+---
 
+### 💬 **Programming Languages**
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
 </p>
-<br><br>
-<div align=center>
+
+---
+
+### ⚙️ **Frameworks & Libraries**
+<p align="center">
+  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+  <a href="https://socket.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🧠 **Developer Tools & Environments**
+<p align="center">
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+  <a href="https://trello.com/"><img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="40" height="40"/></a>
+  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.netlify.com/"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/></a>
+  <a href="https://vercel.com/"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/></a>
+  <a href="https://stripe.com/"><img src="https://cdn.worldvectorlogo.com/logos/stripe-3.svg" width="40" height="40"/></a>
+  <a href="https://www.paypal.com/"><img src="https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🗄️ **Databases**
+<p align="center">
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+  <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🎨 **Design, 3D & Video**
+<p align="center">
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/indesign.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/adobepremierepro.svg" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/dreamweaver.html"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/adobedreamweaver.svg" width="40" height="40"/></a>
+  <a href="https://www.blender.org/"><img src="https://github.com/syvixor/skills-icons/raw/main/icons/blender.svg" width="40" height="40"/></a>
+  <a href="https://www.canva.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🌍 **Other Skills & Concepts**
+<p align="center">
+  <img src="https://img.shields.io/badge/API%20REST-02569B?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CRUD%20Operations-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile%20&%20Scrum-2496ED?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-2D3748?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
+
 
 # GITHUB STATS  📊
 
