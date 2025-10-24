@@ -20,7 +20,7 @@
     </td>
     <td width="300px" align="center" valign="middle">
       <a href="https://www.instagram.com/p/DKMTv4kq6m8/?img_index=1" target="_blank">
-        <img src="./img/1L-35.jpg" alt="Ivan Calero" width="300" style="border-radius: 10px;">
+        <img src="./1L-35.jpg" alt="Ivan Calero" width="300" style="border-radius: 10px;">
       </a>
     </td>
   </tr>
